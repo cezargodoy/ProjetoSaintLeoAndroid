@@ -28,6 +28,7 @@ Linguagem: Kotlin (ou Java, dependendo do curso)
 # Interface do usuário (UI)
 O aplicativo terá apenas duas telas principais:
 
+<img width="1141" height="1600" alt="52bd2992-5332-4b63-af7d-afec977d9a73" src="https://github.com/user-attachments/assets/a37a3304-47bc-4a87-8e0a-7e347bce2ca3" />
 
 
 
