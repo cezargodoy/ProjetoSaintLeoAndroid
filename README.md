@@ -29,19 +29,30 @@ Linguagem: Kotlin (ou Java, dependendo do curso)
 O aplicativo terá apenas duas telas principais:
 
 
+
+
 # Tela principal
 lista de tarefas
 botão para adicionar nova tarefa
 
+<img width="441" height="527" alt="FIGMA1" src="https://github.com/user-attachments/assets/7789ece5-5832-4812-8203-c5fae115a678" />
+
+
 # Tela de adicionar tarefa
 campo de texto
 botão salvar
+
+<img width="440" height="530" alt="FIGMA2" src="https://github.com/user-attachments/assets/cf343b53-9dbc-4331-be7b-a7c352161d53" />
+
 
 # Funcionalidades
 adicionar tarefa
 visualizar tarefas
 marcar tarefa como concluída
 remover tarefa
+
+<img width="440" height="525" alt="FIGMA3" src="https://github.com/user-attachments/assets/212fcc05-a9ed-4280-93ab-341fc73423aa" />
+
 
 Design (ideia simples de tela)
 --------------------------------
